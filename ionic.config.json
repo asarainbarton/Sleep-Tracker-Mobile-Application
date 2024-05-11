@@ -1,0 +1,7 @@
+{
+  "name": "Sleep Tracker Mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
